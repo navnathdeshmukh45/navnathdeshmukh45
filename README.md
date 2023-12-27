@@ -26,11 +26,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=skygitig&show_icons=true&locale=en&layout=compact" alt="skygitig" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skygitig&show_icons=true&locale=en" alt="skygitig" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=skygitig&" alt="skygitig" /></p>
 
 <h3 align="left">Support:</h3>
 <p></a></p><br><br>
