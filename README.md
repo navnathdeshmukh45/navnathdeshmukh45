@@ -43,6 +43,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=navnathdeshmukh45)](https://git.io/streak-stats)
 <!--<h3 align="left">Support:</h3>-->
 
