@@ -1,8 +1,8 @@
 <h1 align="center" style="width:100;%">
  <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" />
 </h1>
-<h1 align="center">Hi 👋, I'm Navnath Deshmukh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm NAVNATH DESHMUKH </h1>
+<h3 align="center">A passionate Full Stack Developer And Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skygitig&label=Profile%20views&color=0e75b6&style=flat" alt="skygitig" /> </p>
 
