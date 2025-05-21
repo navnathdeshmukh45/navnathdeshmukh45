@@ -2,7 +2,7 @@
  <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" />
 </h1>
 <h1 align="center">Hi 👋, I'm NAVNATH DESHMUKH </h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Softwear Engineer  from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skygitig&label=Profile%20views&color=0e75b6&style=flat" alt="skygitig" /> </p>
 
@@ -18,9 +18,9 @@
   <a href="https://www.linkedin.com/in/navnath-deshmukh-37376822b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<!--   <a href="[your-youtube-URL](https://www.youtube.com/@programmer_navnath)">
+  <a href="[your-youtube-URL](https://www.youtube.com/@programmer_navnath)">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a> -->
+  </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
