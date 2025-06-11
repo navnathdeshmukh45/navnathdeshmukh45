@@ -32,18 +32,24 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
-## 🛠️ Technologies
-***
-A list of technologies used within the project:
-
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML): Version 5.0  
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS): Version 3.0  
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript): Version ES6+  
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) [Node.js](https://nodejs.org/): Version 18.x  
-- ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) [Express.js](https://expressjs.com/): Version 4.x  
-- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) [MongoDB](https://www.mongodb.com/): Version 6.x  
-- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) [Python](https://www.python.org/): Version 3.11  
-- ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) [Java](https://www.oracle.com/java/): Version 17  
+## 🛠️ Technologies  
+A list of technologies used within the project for **Data Analyst** and **Data Scientist** roles:
+ 
+- ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white) **Microsoft Excel**: Advanced Formulas, PivotTables  
+- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black) **Power BI**: Data Visualization & Dashboards  
+- ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white) **Tableau**: Interactive Dashboards  
+- ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white) **SQL**: Data Querying & Reporting  
+- ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white) **Google Sheets**: Data Manipulation  
+- ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) **Python**: Data Analysis, ML & AI  
+- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) **Jupyter Notebook**: Interactive Coding & Analysis  
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) **Pandas**: Data Manipulation  
+- ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) **NumPy**: Numerical Computing  
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white) **Matplotlib**: Data Visualization  
+- ![Seaborn](https://img.shields.io/badge/Seaborn-00CED1?logo=python&logoColor=white) **Seaborn**: Statistical Data Visualization  
+- ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white) **Scikit-learn**: Machine Learning  
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) **TensorFlow**: Deep Learning  
+- ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white) **Keras**: Neural Networks  
+- ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white) **Plotly**: Interactive Visualizations  
 
 
 
