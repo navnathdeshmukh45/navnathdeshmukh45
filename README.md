@@ -14,6 +14,7 @@
 - 📫 How to reach me **navnathdeshmukh363@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/navnath-deshmukh-37376822b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -31,9 +32,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
-## 🛠️ Technologies
-***
-A list of technologies used within the project:
 ## 🛠️ Technologies
 ***
 A list of technologies used within the project:
