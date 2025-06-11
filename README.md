@@ -31,4 +31,18 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 
+## 🛠️ Technologies
+***
+A list of technologies used within the project:
+
+* [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML): Version 5.0  
+* [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS): Version 3.0  
+* [JavaScript (ES6+)](https://developer.mozilla.org/en-US/docs/Web/JavaScript): Version ES6+  
+* [Node.js](https://nodejs.org/): Version 18.x  
+* [Express.js](https://expressjs.com/): Version 4.x  
+* [MongoDB](https://www.mongodb.com/): Version 6.x  
+* [Python](https://www.python.org/): Version 3.11  
+* [Java](https://www.oracle.com/java/technologies/javase-downloads.html): Version 17
+
+
 
